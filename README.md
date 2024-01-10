@@ -10,3 +10,4 @@ adding some more information:
 I faced error, while Keras and tensorflow installation, and that is also due to wrong version of python
 we faced it earlier and now again, so before working also check out the compatiability of library with python./
 if you want to work with it, then use the low versions such as 3.9, 3.10 and 3.11, as most latest makes the error.
+
